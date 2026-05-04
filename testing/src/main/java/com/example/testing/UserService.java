@@ -1,3 +1,5 @@
+package com.example.testing;
+
 public class UserService{
     private UserRepository userRepository;
     public UserService(UserRepository userRepository){
